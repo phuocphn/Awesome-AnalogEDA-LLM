@@ -7,6 +7,7 @@ Large Language Models (LLMs) have shown remarkable progress in Digital-EDA tasks
 
 ## Datasets, Benchmarks & Surveys
 - (*arXiv:2411*) Auto-SPICE/Masala-CHAI: A Large-Scale SPICE Netlist Dataset for Analog Circuits by Harnessing AI Circuit Diagrams  [[paper](https://arxiv.org/pdf/2411.14299)][[code](https://github.com/jitendra-bhandari/Masala-CHAI)]
+- (*arXiv:2502*) CIRCUIT: A Benchmark for Circuit Interpretation and Reasoning Capabilities of LLMs [[paper](https://arxiv.org/abs/2502.07980)]
 - (*arXiv:2410*) LLM-Aided Efficient Hardware Design Automation [[paper](https://arxiv.org/pdf/2410.18582)]
 
 ## SPICE Code Generation
